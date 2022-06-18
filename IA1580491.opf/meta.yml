@@ -1,0 +1,37 @@
+id: IA1580491
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:08:50.266645'
+last_modified: '2022-06-19T01:08:50.266676'
+parser: null
+source_metadata:
+  title: Hagiography of Dwags po bKra shis rnam rgyal (1398/99–1458)
+  author: karma phrin las pa/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-06-02); converted from external file,revised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Sakya College, Dehradun (sc)
+  - Editorial process:tshe ring grong shar/ (td), Mathias Fermer (mf), Gabriele Coura
+    (gc)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:tshe ring grong shar/ (td), Mathias Fermer (mf)
+  - Revisions/Corrections:tshe ring grong shar/ (td)
+  text_witnesses: https://sakyaresearch.org/sources/283
+  bases:
+    eb19:
+      title: Hagiography of Dwags po bKra shis rnam rgyal (1398/99–1458)
+      order: 1
+      base_file: eb19.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
